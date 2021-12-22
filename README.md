@@ -29,7 +29,7 @@ fun(k)
 
 
 ## Output:
-![exponentiation of a number](expo.png)
+![exponentiation of a number](https://github.com/naramala-niharika/EXPONENTIATION/blob/main/Screenshot%20(10).png?raw=true)
 
 
 ## Result:
