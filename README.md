@@ -15,8 +15,11 @@ To write a program to find the exponentiation of a number.
 ```
 /*
 Program to find the exponentiation of a number.
+
 Developed by: N.Niharika
+
 RegisterNumber: 21500912
+
 */
 ```
 def fun(k):
